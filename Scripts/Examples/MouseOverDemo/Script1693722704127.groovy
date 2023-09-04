@@ -19,15 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('https://katalon.com/')
 
-WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.mouseOver(findTestObject('Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Why Katalon'))
 
-WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.mouseOver(findTestObject('Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Platform'))
 
-WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
-
-WebUI.verifyTextPresent('Dashboard123', false, FailureHandling.OPTIONAL)
+WebUI.mouseOver(findTestObject('Object Repository/Page_Katalon AI-augmented Software Quality _596167/div_Solutions'))
 
 WebUI.closeBrowser()
 

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_WebDriver</name>
+   <tag></tag>
+   <elementGuidId>193438f8-5aa3-4f18-8816-f16148a06514</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='m-documentationwebdriver']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#m-documentationwebdriver > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c7835ea8-f054-46fd-8fb9-52282730f798</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WebDriver</value>
+      <webElementGuid>c5db51e8-596f-4871-a36f-373f4296f9ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;m-documentationwebdriver&quot;)/span[1]</value>
+      <webElementGuid>11d67b0e-dcf3-48dd-85cc-983a08d46080</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='m-documentationwebdriver']/span</value>
+      <webElementGuid>bf060a98-72a8-40a6-909d-e6db60f60557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::span[1]</value>
+      <webElementGuid>02535383-fd1e-4e76-b1ae-a25832494fb8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Components'])[1]/following::span[2]</value>
+      <webElementGuid>702bf86c-1875-40f9-87f3-d99154d38925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Getting Started'])[1]/preceding::span[1]</value>
+      <webElementGuid>1ce1b1fe-bdee-4e27-9058-8f0702326376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Install Library'])[1]/preceding::span[2]</value>
+      <webElementGuid>1e33d407-3471-4112-9650-b0f633f16986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='WebDriver']/parent::*</value>
+      <webElementGuid>4417bde6-f8b0-4e0e-9e15-65b38bd43128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>d8ab6827-aa6e-43ba-8871-7002ac54c0ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'WebDriver' or . = 'WebDriver')]</value>
+      <webElementGuid>1ddf4d76-7750-4fbf-831c-620ddf6efa06</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

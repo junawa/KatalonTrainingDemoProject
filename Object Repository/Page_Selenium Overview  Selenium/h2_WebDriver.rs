@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_WebDriver</name>
+   <tag></tag>
+   <elementGuidId>b7c814db-e7fe-4222-b415-30bb9f4dec65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h2[@id='webdriver']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#webdriver</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>d8930b47-b63d-4c36-b5b1-15703b5a6681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>webdriver</value>
+      <webElementGuid>9c4d4550-a306-4533-a60e-aae298d344ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>WebDriver </value>
+      <webElementGuid>1d383174-124b-4210-9967-7ae0fa04956f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;webdriver&quot;)</value>
+      <webElementGuid>1ffee8ad-e321-4194-82c4-5cf1c3f82273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='webdriver']</value>
+      <webElementGuid>542307ca-1e52-422b-8254-2e4c11fca071</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is Selenium for you? See an overview of the different project components.'])[1]/following::h2[1]</value>
+      <webElementGuid>def616cf-e07a-4467-b2a9-91b18c293afb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selenium Overview'])[1]/following::h2[1]</value>
+      <webElementGuid>8161220f-2126-4d43-bd25-d79ced8533c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebDriver'])[4]/preceding::h2[1]</value>
+      <webElementGuid>d47ec42c-a6d1-44cc-a252-7bddd6c4b1bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IDE'])[3]/preceding::h2[1]</value>
+      <webElementGuid>e30b4085-1d9e-49e3-bb10-2dfdd4ccd493</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>f084b5da-7d74-4e23-aef7-2f2da7383d93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[@id = 'webdriver' and (text() = 'WebDriver ' or . = 'WebDriver ')]</value>
+      <webElementGuid>baef9fe0-ec66-4f9e-a5d7-ed304a022239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

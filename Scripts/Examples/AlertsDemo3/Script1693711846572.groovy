@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('http://the-internet.herokuapp.com/javascript_alerts')
 
-WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.click(findTestObject('Object Repository/Page_The Internet/button_Click for JS Prompt'))
 
-WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.setAlertText('Katalon')
 
-WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
+WebUI.acceptAlert()
 
-WebUI.verifyTextPresent('Dashboard123', false, FailureHandling.OPTIONAL)
+WebUI.verifyTextPresent('You entered: Katalon', false)
 
 WebUI.closeBrowser()
 

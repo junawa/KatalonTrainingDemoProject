@@ -19,15 +19,15 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://opensource-demo.orangehrmlive.com/web/index.php/auth/login')
+WebUI.navigateToUrl('https://www.selenium.dev/documentation/')
 
-WebUI.setText(findTestObject('Page_OrangeHRM/input_Username_username'), 'Admin')
+WebUI.click(findTestObject('Object Repository/Page_The Selenium Browser Automation Projec_bac247/span_Overview'))
 
-WebUI.setEncryptedText(findTestObject('Page_OrangeHRM/input_Password_password'), 'hUKwJTbofgPU9eVlw/CnDQ==')
+WebUI.click(findTestObject('Object Repository/Page_Selenium Overview  Selenium/h2_WebDriver'))
 
-WebUI.click(findTestObject('Page_OrangeHRM/button_Login'))
+WebUI.click(findTestObject('Object Repository/Page_Selenium Overview  Selenium/span_WebDriver'))
 
-WebUI.verifyTextPresent('Dashboard123', false, FailureHandling.OPTIONAL)
+WebUI.click(findTestObject('Object Repository/Page_WebDriver  Selenium/p_It drives the browser effectively'))
 
 WebUI.closeBrowser()
 
